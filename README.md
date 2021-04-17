@@ -16,3 +16,10 @@
 
 #### Install the required libraries using "pip install requirements.txt"
 
+#### Output:
+Audio File: 
+![image](https://user-images.githubusercontent.com/57292897/115123760-1fcbbf00-9fdc-11eb-9467-5179850e26cb.png)
+
+Ouput: ![image](https://user-images.githubusercontent.com/57292897/115123782-383bd980-9fdc-11eb-899e-765040023c20.png)
+
+
